@@ -14,9 +14,8 @@
 ## Файлы
 - `README.md` — Описание проекта
 - `shopping_behavior.csv` — Исходный датасет
-- `data_analysis.ipynb` — 1. Анализ данных в Python (pandas и numpy)
-- 'https://datalens.yandex/vgtamtg32uduf' — 2. Аналитика в Yandex DataLens
-- -3. Публикация проекта на GitHub - выполнено
+- `data_analysis.ipynb` —  Анализ данных в Python (pandas и numpy)
+- 'https://datalens.yandex/vgtamtg32uduf' —  Аналитика в Yandex DataLens
 
 ## Автор
 Ковалева Софья, ФИИТ 1.4
