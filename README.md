@@ -12,10 +12,11 @@
 - Публикация проекта на GitHub
 
 ## Файлы
-- `data_analysis.ipynb` — Основной ноутбук с анализом
-- `shopping_behavior.csv` — Исходный датасет
 - `README.md.txt` — Описание проекта
-- 'https://datalens.yandex/vgtamtg32uduf' — Ссылка на Yandex DataLens
+- `shopping_behavior.csv` — Исходный датасет
+- `data_analysis.ipynb` — 1. Анализ данных в Python (pandas и numpy)
+- 'https://datalens.yandex/vgtamtg32uduf' — 2. Аналитика в Yandex DataLens
+- -3. Публикация проекта на GitHub - выполнено
 
 ## Автор
 Ковалева Софья, ФИИТ 1.4
