@@ -12,7 +12,7 @@
 - Публикация проекта на GitHub
 
 ## Файлы
-- `README.md.txt` — Описание проекта
+- `README.md` — Описание проекта
 - `shopping_behavior.csv` — Исходный датасет
 - `data_analysis.ipynb` — 1. Анализ данных в Python (pandas и numpy)
 - 'https://datalens.yandex/vgtamtg32uduf' — 2. Аналитика в Yandex DataLens
